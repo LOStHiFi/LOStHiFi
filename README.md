@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm learning **Java** as my programming language
+I'm learning **Python** as my programming language
 
-- 🔭 I’m currently working on **HCIE-Datacom**
-- 🌱 I’m currently learning **Web Development**
+- 🔭 I Got The Huawei Certified ICT Expert of Datacom
 - ✉️ Email: wangjoycon@outlook.com
